@@ -1,3 +1,8 @@
+// Jackson Joseph
+// Bankers Algorithm
+// 4/14/2022
+
+
 #include <iostream>
 #include <vector>
 #include <fstream>
